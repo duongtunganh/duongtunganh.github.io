@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "Introducing Tùng Anh's space"
+author: "Tùng Anh"
 comments: true
 ---
 
