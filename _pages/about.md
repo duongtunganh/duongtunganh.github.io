@@ -1,5 +1,6 @@
 ---
 title: Giới thiệu
+layout: post
 author: "Tùng Anh"
 permalink: "/about/"
 ---
