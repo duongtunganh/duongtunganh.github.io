@@ -1,15 +1,19 @@
 ---
-layout: post
-title: "About"
-author: "Chester"
-permalink: /about/
+title: Giới thiệu
+author: "Tùng Anh"
+permalink: "/about/"
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hey hey! Chào mừng các bạn đã đến với blog của mình. Mình là Dương Tùng Anh, hiện đang là học sinh lớp 11 tại THPT Chuyên Hà Nam. Mình rất thích nghiên cứu, tìm tòi về công nghệ thông tin, về cách mọi vật hoạt động. Bên cạnh đó, mình còn có một tình yêu với nhiếp ảnh và làm phim. Vì vậy, mọi người thường hay gọi mình là một con mọt máy tính.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+![Ảnh của tui](/img/wt.jpg "Ảnh của tui")
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
 
-Thanks for reading!
+
+## Hãy cùng kết nối!
+
+Bạn có thể tìm thấy mình qua Twitter: [@tunganh03](https://twitter.com/tunganh03), Facebook: [@tunna.duong](https://facebook.com/tunna.duong), Instagram: [@tunganh_chn](https://instagram.com/tunganh_chn)
+
+Ngoài ra, nếu bạn muốn biết về các dự án lập trình, tin học của mình, hãy nhấn Follow và cho mình một Star trên GitHub: [@tunganh03](https://github.com/tunganh03)
+
+Cảm ơn mọi người!
