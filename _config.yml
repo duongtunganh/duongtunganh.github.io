@@ -37,5 +37,8 @@ paginate:       5
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+gitalk:
+    owner: tunganh03
+    repo: duongtunganh.github.io
+    clientID: ad3bd2403c591bed76a4
+    clientSecret: b55ce41df0fd11208deef869e4d7ffd5999437ab
