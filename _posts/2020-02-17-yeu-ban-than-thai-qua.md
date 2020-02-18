@@ -1,5 +1,5 @@
 ---
-title: "Yêu bản thân" không đồng nghĩa với "yêu bản thân thái quá"
+title: Yêu bản thân không đồng nghĩa với yêu bản thân thái quá
 comments: true
 layout: post
 ---
