@@ -6,6 +6,8 @@ layout: post
 
 Nếu cuộc sống của bạn hiện nay so với cách đây 1 năm vẫn không có sự tiến bộ đáng kể mặc dù bạn thấy rằng mình đã nỗ lực nghiêm túc, câu chuyện dưới đây sẽ giúp bạn đưa ra những quyết định làm thay đổi cuộc sống của mình.
 
+![conbo](/img/conbo.jpg "Ngày xưa có một con bò")
+
 Ngày xửa ngày xưa, có một ông thầy giáo khôn ngoan và giàu kinh nghiệm muốn truyền cho một trong số các học trò của mình các bí quyết để sống một cuộc đời hạnh phúc và thịnh vượng. Vốn biết những khó khăn và rào cản quá nặng nề mà nhiều người gặp phải trên con đường mưu cầu hạnh phúc, ông nghĩ rằng bài học đầu tiên là nên giải thích cho mọi người hiểu vì sao nhiều người chỉ sống cuộc đời bình bình và tầm thường.
 
 Để dạy được những bài học quan trọng này, ông giáo quyết định cùng với người học trò của mình lên đường đi đến một ngôi làng nghèo khổ trong vùng. Cảnh khổ đau và hoang tàn bày ra khắp nơi, và cư dân ở đó có vẻ như đã phó thác cuộc đời mình cho số mệnh.
