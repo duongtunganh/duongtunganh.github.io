@@ -1,5 +1,5 @@
 ---
-title: Tự học ở nhà như thế nào cho hiệu quả
+title: Cách tự học ở nhà và một số trang web hữu ích cho việc tự học
 comments: true
 layout: post
 ---
