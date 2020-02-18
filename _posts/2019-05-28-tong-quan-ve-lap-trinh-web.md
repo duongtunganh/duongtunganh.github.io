@@ -6,7 +6,7 @@ categories:
 comments: true
 ---
 
-<p class="lead">Bài viết này sẽ nói về tổng quan của ngành lập trình web dưới góc nhìn của mình - một thằng nhóc 16 tuổi, dựa trên những kiến thức về lập trình web mình đã tự học được.</p>
+<p class="lead">Bài viết này sẽ nói về tổng quan của ngành lập trình web dưới góc nhìn của mình - một thằng nhóc 17 tuổi, dựa trên những kiến thức về lập trình web mình đã tự học được.</p>
 
 Đầu tiên, hãy cùng mình tìm hiểu về các khái niệm sau đây:
 
