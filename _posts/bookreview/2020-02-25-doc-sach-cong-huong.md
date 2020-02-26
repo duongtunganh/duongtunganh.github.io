@@ -5,6 +5,7 @@ categories:
 - bookreview
 comments: true
 layout: post
+img: docsachconghuong.jpg
 ---
 Bắt gặp dòng chữ: 'Làm thế nào để bạn có thể đọc một cuốn sách dày 500 trang trong 20 phút?', bạn sẽ tin ngay lập tức hay sẽ hoài nghi? Nếu còn hoài nghi, thì cuốn sách Đọc sách cộng hưởng (NXB Lao động) sẽ là chìa khóa giúp bạn đi tìm lời giải cho mình.
 Đọc sách cộng hưởng là một khái niệm hoàn toàn mới ở Việt Nam nhưng lại không mới với các nước khác, nhất là ở Nhật. Đây là phương pháp đọc sách được tác giả Wanatabe Yassuhiro, Thành viên Hiệp hội sách Nhật Bản viết và được chia sẻ nhiều trong cộng đồng đọc sách ở đất nước mặt trời mọc trong thời gian gần đây.
