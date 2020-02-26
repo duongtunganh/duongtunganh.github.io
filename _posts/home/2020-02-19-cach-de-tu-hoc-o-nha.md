@@ -2,6 +2,8 @@
 title: Cách tự học ở nhà và một số trang web hữu ích cho việc tự học
 comments: true
 layout: post
+categories:
+- home
 ---
 Trong lúc dịch Corona đang hoành hành như hiện nay, mọi học sinh, sinh viên đều được nghỉ ở nhà thì việc tự học là một việc đóng vai trò rất quan trọng. Nhưng hãy thử tưởng tượng nếu như bạn tự học ở nhà trong một không gian tối, ngột ngạt, bàn học của bạn được đặt gần ti vi, xung quanh mọi thứ trông khá bừa bộn, khi đó bạn có hứng thú để tự học ở nhà hay không?
 

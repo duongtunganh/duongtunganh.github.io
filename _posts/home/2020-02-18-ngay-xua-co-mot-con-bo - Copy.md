@@ -2,6 +2,8 @@
 title: Ngày xưa có một... con bò
 comments: true
 layout: post
+categories:
+- home
 ---
 
 Nếu cuộc sống của bạn hiện nay so với cách đây 1 năm vẫn không có sự tiến bộ đáng kể mặc dù bạn thấy rằng mình đã nỗ lực nghiêm túc, câu chuyện dưới đây sẽ giúp bạn đưa ra những quyết định làm thay đổi cuộc sống của mình.

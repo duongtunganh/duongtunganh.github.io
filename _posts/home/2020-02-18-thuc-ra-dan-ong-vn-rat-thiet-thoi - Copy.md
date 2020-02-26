@@ -2,6 +2,8 @@
 title: Thực ra đàn ông Việt Nam rất thiệt thòi
 comments: true
 layout: post
+categories:
+- home
 ---
 Dạo này, à không, thực ra là từ rất nhiều dạo, có 1001 những bài viết so sánh trai tây với trai Việt trên mạng. Phần lớn nội dung đều là chỉ trích đàn ông Việt không tinh tế, dịu dàng, có trách nhiệm như đàn ông Tây. Mặc dù lấy chồng Tây, nhưng tôi cũng không khỏi bật cười về những bài viết ấy. Những thứ các bạn nhìn thấy, thực ra chỉ là bề mặt. Từ rất lâu rồi, tôi đã nhận ra một điều: đàn ông Việt Nam thiệt thòi vô cùng so với đàn ông Tây.
 

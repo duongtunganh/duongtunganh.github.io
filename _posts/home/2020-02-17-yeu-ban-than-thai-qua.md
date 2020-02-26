@@ -2,6 +2,8 @@
 title: Yêu bản thân không đồng nghĩa với yêu bản thân thái quá
 comments: true
 layout: post
+categories:
+- home
 ---
 
 Nhắc đến cụm từ "Yêu bản thân thái quá" (narcissism), nếu như bạn đã từng đọc thần thoại Hy Lạp thì nhất định bạn sẽ nhớ tới loài hoa thủy tiên (narcissus) và câu chuyện của chàng thiếu niên tuấn tú Narcissus.

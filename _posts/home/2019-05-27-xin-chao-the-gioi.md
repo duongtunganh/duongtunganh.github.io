@@ -3,6 +3,8 @@ layout: post
 title:  "Xin chào thế giới"
 author: "Tùng Anh"
 comments: true
+categories:
+- home
 ---
 
 Đây là bài viết đầu tiên trên blog của tôi!
