@@ -5,7 +5,9 @@ layout: post
 categories:
 - home
 ---
-![Image](/img/27newport-superJumbo.jpg)
+![Image](/img/27newport-superJumbo.jpg)  
+
+  
 Hãy tưởng tượng, trên tay ta là chiếc điện thoại cố định thay cho chiếc điện thoại thông minh mà hầu hết bây giờ ai cũng có. Cuộc sống của chúng ta sẽ thay đổi như thế nào?  
 
 - Mỗi khi đi đâu phải mang theo bản đồ giấy thay vì định vị GPS.
