@@ -39,7 +39,7 @@ Tác hại của việc thức khuya, ngủ muộn có rất nhiều, có loại
 
 Như vậy, ngày hôm sau chắc chắn chúng ta sẽ cảm thấy mệt mỏi, sa sút tinh thần, đầu óc căng thẳng, trí nhớ kém, khó tập trung tư tưởng, phản ứng chậm, hay quên, chóng mặt, nhức đầu… Lâu ngày sẽ dẫn đến bị bệnh suy nhược thần kinh.  
 
-**6 Điều cần nắm để có giấc ngủ tốt cho cơ thể:  **
+**6 Điều cần nắm để có giấc ngủ tốt cho cơ thể:**  
 
 1. Từ 21-23h là quãng thời gian hệ miễn dịch (bạch cầu lymph) bài độc (đào thải chất độc), lúc này nên giữ trạng thái yên tĩnh hoặc nghe âm nhạc thư giãn.  
 
